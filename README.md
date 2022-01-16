@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maximal73
 - 👀 I’m interested in encrypt
-- 🌱 I’m currently learning who encrypt work
+- 🌱 I’m currently learning who encrypt works
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
